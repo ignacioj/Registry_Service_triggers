@@ -1,5 +1,7 @@
 # Registry_Service_triggers
 
+serv-triggers.pl Is a perl program to get all the service triggers from an offline hive. Service triggers can start and stop services containing malware. You have to run it as: serv-triggers.pl system 
+
 Display the service triggers from an offline registry SYSTEM hive.
 
 References: 
